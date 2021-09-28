@@ -1,0 +1,89 @@
+body {
+    background-image: url("https://wallpaperaccess.com/full/340434.png");
+    background-size: cover;
+    font-family: "Quicksand", sans-serif;
+}
+
+.login {
+    background-color: white;
+    border-radius: 15px;
+    margin-top: 15vh;
+    margin-left: 35vw;
+    margin-right: 35vw;
+}
+
+.flex-login {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.titulo-login {
+    font-weight: bold;
+    padding: 2px;
+    text-align: center;
+}
+
+.caixa {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.titulo {
+    color: gray;
+    margin-left: 40px;
+    font-size: 12px;
+}
+
+.input {
+    border: 0px;
+    border-bottom: 1px solid rgb(219, 206, 206);
+    font-family: "Quicksand", sans-serif;
+    height: 150%;
+    width: 85%;
+}
+
+.input:active {
+    border: deeppink;
+}
+
+.forgot-password {
+    margin-top: -30px;
+    margin-left: 67%;
+    color: gray;
+    font-size: 12px;
+    text-decoration: none;
+}
+
+button {
+    background-image: url("https://wallpaperaccess.com/full/340434.png");
+    background-size: cover;
+    border: 0px;
+    border-radius: 15px;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+    margin: 25px auto;
+    padding: 2% 35%;
+}
+
+button:hover {
+    opacity: 0.8;
+    transition: all 0.1s ease-in-out;
+}
+
+.sign {
+    color: gray;
+    font-size: 12px;
+    text-align: center;
+}
+
+.auto-log {
+    display: flex;
+    justify-content: center;
+}
+
+.auto-login {
+    width: 25px;
+    margin: 5px 10px 20px 0;
+}
