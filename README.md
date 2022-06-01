@@ -1,4 +1,4 @@
 # template-login
 
-- Login template. Project in html and css!
-- Desktop only. Responsive will be done soon.
+- Modelo de login. Projeto em html e css!
+- Apenas desktop. A responsiva será feita em breve.
